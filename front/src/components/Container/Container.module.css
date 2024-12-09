@@ -1,0 +1,10 @@
+.container {
+    height: fit-content;
+    min-height: 100vh;
+    text-align: center;
+    position: relative;
+    background-color: #ffffff;
+    background-color: #f5f8fa;
+    /*padding-block: 50px;*/
+
+}
